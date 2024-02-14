@@ -1,4 +1,4 @@
-_coding: utf-8
+#coding: utf-8
 
 Задача 1
 r=int(input())
